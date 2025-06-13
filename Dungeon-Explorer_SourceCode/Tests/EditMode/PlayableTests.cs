@@ -1,9 +1,6 @@
 using System;
-using System.Collections;
-using System.Drawing.Text;
 using NUnit.Framework;
 using UnityEngine;
-using UnityEngine.TestTools;
 
 public class PlayableTests
 {

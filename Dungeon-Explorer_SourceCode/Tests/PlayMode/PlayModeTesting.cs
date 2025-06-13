@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-public class EditModeTests
+public class PlayModeTesting
 {
     private GameObject healthObj;
     private HealthScript healthScript;
